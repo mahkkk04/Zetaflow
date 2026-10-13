@@ -97,13 +97,6 @@ You can select the strategy via a config file or CLI flags:
 
 ---
 
-## 📄 License
-
-GPL-3.0 License © Pratyush Nanda  
-See [LICENSE](LICENSE) for more details.
-
----
-
 ## 🌐 Acknowledgments
 
 - [Boost C++ Libraries](https://www.boost.org/)
